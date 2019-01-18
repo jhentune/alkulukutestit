@@ -11,3 +11,7 @@ johannes.hentunen@helsinki.fi
 - Toteutusdokumentti
 - Testausdokumentti
 - Käyttöohje
+
+### Viikkoraportit
+
+...
