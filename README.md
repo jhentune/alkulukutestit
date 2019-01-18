@@ -1,2 +1,12 @@
 # Alkulukutestit
-Verrataan probabilistisen Miller-Rabinin alkulukutestin sekä deterministisen AKS-testin tehokkuuksia jollain mittareilla...
+
+Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit (periodi III / 2019)
+johannes.hentunen@helsinki.fi
+
+## Linkit dokumentteihin
+
+### [Määrittelydokumentti] (linkki)
+
+- Toteutusdokumentti
+- Testausdokumentti
+- Käyttöohje
