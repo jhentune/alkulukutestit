@@ -1,6 +1,6 @@
 # Viikko 1
 
-linkki tuntiraporttiin
+[linkki tuntiraporttiin]
 
 ## Tapahtui tällä viikolla
 * Aloitusluento ja kurssimateriaaliin tutustuminen
