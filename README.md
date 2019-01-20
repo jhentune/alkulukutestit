@@ -15,6 +15,7 @@ johannes.hentunen@helsinki.fi
 ### Viikkoraportit
 
 [Viikkoraportti 1](https://github.com/jhentune/alkulukutestit/blob/master/Dokumentit/Viikkoraportti_1.md)
+
 [Viikkoraportti 2]
 
 ### Tuntiraportti
