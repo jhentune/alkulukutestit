@@ -7,4 +7,5 @@
 
 ### Viikko 1 yhteensä 8h
 
-- 20.1.
+- 20.1. Dokumentit ja algotutkimus 2h
+- 21.1.
