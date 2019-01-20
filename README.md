@@ -8,10 +8,11 @@ johannes.hentunen@helsinki.fi
 
 ### [Määrittelydokumentti](https://github.com/jhentune/alkulukutestit/blob/master/Dokumentit/maarittelydokumentti.md)
 
-- Toteutusdokumentti
-- Testausdokumentti
-- Käyttöohje
+### Toteutusdokumentti
+### Testausdokumentti
+### Käyttöohje
 
 ### Viikkoraportit
 
-...
+[Viikkoraportti 1](https://github.com/jhentune/alkulukutestit/blob/master/Dokumentit/Viikkoraportti_1.md)
+
