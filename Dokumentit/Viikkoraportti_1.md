@@ -1,6 +1,6 @@
 # Viikko 1
 
-[linkki tuntiraporttiin]
+[Tuntiraportti](https://github.com/jhentune/alkulukutestit/blob/master/Dokumentit/tuntiraportti.md)
 
 ## Tapahtui tällä viikolla
 * Aloitusluento ja kurssimateriaaliin tutustuminen
