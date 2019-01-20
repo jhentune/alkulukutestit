@@ -5,6 +5,6 @@
 - 18.1. Algotutkimus + git-opettelu 2h
 - 19.1. Dokumentit 1h
 
-## Viikko 1 yhteensä 8h
+### Viikko 1 yhteensä 8h
 
 - 20.1.
