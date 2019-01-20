@@ -6,7 +6,7 @@ Suuret alkuluvut ovat oleellinen osa nykyaikaisia salausmetelmiä ja tällaisten
 
 Ohjelmani alkulukutesteistä pyrkii toteuttamaan ja vertaamaan keskenään tehokkuuksissa kahta tunnettua alkulukutestiä, eli probabilistista Miller-Rabinin testiä sekä ensimmästä keksittyä determinististä AKS-testiä. Jälkimmäinen tunnistaa luvun alkuluvuksi tai yhdistelmäluvuksi täysin 100% varmuudella kun taas edellisen toiminta perustuu testin lukuisaan toistoon, jolloin päästään käytännössä kaikella merkittävällä tarkkuudella varmuuteen onko testattava luku alkuluku vai ei. Tämä todennäköisyyteen perustuva testi on näistä teoreettisesti tehokkaampi, joka siis on tarkoitus projektissa todentaa.
 
-(Kommentti: korvaan todennäköisesti AKS-testin jollain käyttökelpoisemmalla, AKS kun osoittautui aivan liian hitaaksi mihinkään käytännön tarkoitukseen. Selvittelyssä nyt Baillie-PSW (BPSW or BSW) probabilistinen testi, mutta kiva olisi löytää jokin riittävän tehokas deterministinen testi.)
+(Kommentti: korvaan todennäköisesti AKS-testin jollain käyttökelpoisemmalla, AKS kun osoittautui aivan liian hitaaksi mihinkään käytännön tarkoitukseen. Selvittelyssä nyt Baillie-PSW (BPSW tai BSW) probabilistinen testi, mutta kiva olisi löytää jokin riittävän tehokas deterministinen testi.)
 
 ## Tutkittavat algoritmit
 
