@@ -22,6 +22,6 @@ Ohjelmani alkulukutesteistä pyrkii toteuttamaan ja vertaamaan keskenään tehok
 
 ## Lähteet
 
-* Rempe-Gillen L, Waldecker R: Primality Testing for Beginners
+* Rempe-Gillen L, Waldecker R: [Primality Testing for Beginners](https://bookstore.ams.org/stml-70)
 * https://www.sanfoundry.com/java-program-miller-rabin-primality-test-algorithm/
 * (toinen algo)
