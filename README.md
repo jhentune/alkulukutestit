@@ -6,7 +6,7 @@ johannes.hentunen@helsinki.fi
 
 ## Linkit dokumentteihin
 
-### [Määrittelydokumentti] (linkki)
+### [Määrittelydokumentti] (https://github.com/jhentune/alkulukutestit/blob/master/Dokumentit/maarittelydokumentti.md)
 
 - Toteutusdokumentti
 - Testausdokumentti
