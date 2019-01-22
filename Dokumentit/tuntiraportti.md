@@ -8,4 +8,5 @@
 ### Viikko 1 yhteensä 8h
 
 - 20.1. Dokumentit ja algotutkimus 2h
-- 21.1.
+- 21.1. Javan Math-kirjaston alkulukutestin testailua, gradlen säätöä 3h
+- 22.2. 
